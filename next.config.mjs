@@ -9,6 +9,13 @@ const nextConfig = {
         port: "",
         pathname: "/logos/docker.svg",
       },
+      {
+        protocol: "https",
+        hostname: "github.gallerycdn.vsassets.io",
+        port: "",
+        pathname:
+          "/extensions/github/vscode-github-actions/0.27.0/1727202375538/Microsoft.VisualStudio.Services.Icons.Default",
+      },
     ],
   },
 };
